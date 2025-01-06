@@ -7,7 +7,7 @@ This project demonstrates how to perform Monkey Testing using Robot Framework an
 * **Functionality:** Performs monkey testing on a website.
 * **Programmer:** Suman Gangopadhyay
 * **Email ID:** linuxgurusuman@gmail.com
-* **Date:** 1-Jan-2025
+* **Date:** 6-Jan-2025
 * **Version:** 1.0
 * **Code Library:** Selenium
 * **Prerequisites:** Python, Selenium, ChromeDriver
