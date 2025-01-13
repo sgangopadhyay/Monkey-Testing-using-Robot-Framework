@@ -1,4 +1,4 @@
-# Robot Framework Monkey Testing
+# Monkey Testing using Robot Framework 🤖
 
 This project demonstrates how to perform Monkey Testing using Robot Framework and SeleniumLibrary.
 
